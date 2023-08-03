@@ -45,14 +45,14 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" height="50px" width="50px"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" height="50px" width="50px"/>
 </div>
-
+<!--
 <hr>
 
 
 
 <h3>GitHub Stats</h3>
-<!-- <img src="https://github-profile-trophy.vercel.app/?username=Vamsi-Shetty&theme=algolia" align="center" alt="vamsi" width="100%" /> -->
+<img src="https://github-profile-trophy.vercel.app/?username=Vamsi-Shetty&theme=algolia" align="center" alt="vamsi" width="100%" />
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vamsi-Shetty&theme=2077" width="100%" />
 
 <h3>GitHub Metrics</h3>
-<img align="left" src="https://metrics.lecoq.io/Vamsi-Shetty" alt="html" ><img/>
+<img align="left" src="https://metrics.lecoq.io/Vamsi-Shetty" alt="html" ><img/> -->
