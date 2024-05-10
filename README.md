@@ -5,7 +5,7 @@
 
 <p>I'm from Tirupati, Andhra Pradesh. I am passionate about building fully functional web applications.</p>
 
-- 🔭 I’m currently working on [My Portfolio](https://Vamsi-Shetty.github.io)
+- 🔭 I’m currently working on [Medium Clone](https://github.com/Vamsi-Shetty/Medium)
 - 🌱 I’m currently learning Tailwindcss and Typescript
 - 👯 I’m looking to collaborate on React
 - 🤔 I’m looking for help with React
