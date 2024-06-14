@@ -34,7 +34,6 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg"  alt="css" height="50" width="50" ><img/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"  alt="javascript" height="50" width="50" ><img/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"  alt="react" height="50" width="50" ><img/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain-wordmark.svg"  alt="wordpress" height="50" width="50" ><img/>
     
   <h4>Backend Technologies:<h4/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg"  alt="express" height="50" width="50" ><img/>
