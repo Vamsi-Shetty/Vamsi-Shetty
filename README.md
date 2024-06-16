@@ -32,8 +32,10 @@
   <h4>Frontend Technologies:<h4/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg"  alt="html" height="50" width="50" ><img/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg"  alt="css" height="50" width="50" ><img/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg"  alt="tailwindcss" height="50" width="50" ><img/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"  alt="javascript" height="50" width="50" ><img/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"  alt="react" height="50" width="50" ><img/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"  alt="typescript" height="50" width="50" ><img/>
     
   <h4>Backend Technologies:<h4/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg"  alt="express" height="50" width="50" ><img/>
