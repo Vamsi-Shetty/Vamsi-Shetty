@@ -3,7 +3,7 @@
 
 <h3 align="left">About me:</h3>
 
-<p>I'm from Tirupati, Andhra Pradesh. I am passionate about building fully functional web applications.</p>
+<p>I'm from Tirupati, Andhra Pradesh, currently located in Coimbatore, Tamilnadu. I am passionate about building fully functional web applications.</p>
 
 - 🔭 I’m currently working on [Medium Clone](https://github.com/Vamsi-Shetty/Medium)
 - 🌱 I’m currently learning Tailwindcss and Typescript
