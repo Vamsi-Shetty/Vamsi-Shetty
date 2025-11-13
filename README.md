@@ -1,59 +1,28 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Vamsi-Shetty&label=Profile%20views&color=0e75b6&style=flat" alt="Vamsi-Shetty" /> </p>
-<h1 align = center>Hi, I'm Vamsi</h1>
 
-<h3 align="left">About me:</h3>
+# Hi there, I'm Vamsi 👋  
 
-<p>I'm from Tirupati, Andhra Pradesh, currently located in Bengaluru, India. I am passionate about building fully functional web applications.</p>
+💻 **Full-Stack Developer**  
 
-- 🔭 I’m currently working on [Medium Clone](https://github.com/Vamsi-Shetty/Medium)
-- 🌱 I’m currently learning Tailwindcss and Typescript
-- 👯 I’m looking to collaborate on React
-- 🤔 I’m looking for help with React
-- ⚡ Fun fact: ...
+Welcome to my GitHub profile! I love building scalable applications, solving problems with code, and exploring system design & cloud technologies.  
 
-<h3>What do I do?</h3>
-  
-<p>✔️ I aspire to work as a programmer.</p>
-<p>✔️ I'm a fast learner looking for interesting career opportunities in Web development.</p>
-<p>✔️ Currently looking for opportunities as a MERN Stack developer to help me learn and grow as a web developer.</p>
+---
 
-<hr/>
+## 🚀 About Me  
+- 🌱 Currently learning **Cloud computing and System Design**
+- ☁️ Exploring **AWS & Cloud Infrastructure**
 
+---
 
-<h3 align="left">How to reach me:</h3>
+## 🛠️ Tech Stack  
 
-<a href="https://www.linkedin.com/in/vamsi-brahmanapalli/"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg"  alt="linkedin-vamsi" height="30" width="40" ></a>
-
-<h3>Checkout My Portfolio:</h3>
-<a href="https://Vamsi-Shetty.github.io">Vamsi's Portfolio</a>
-
-<h3 align="left">Programming Languages and Tools:</h3>
-<div>
-  <h4>Frontend Technologies:<h4/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg"  alt="html" height="50" width="50" ><img/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg"  alt="css" height="50" width="50" ><img/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg"  alt="tailwindcss" height="50" width="50" ><img/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"  alt="javascript" height="50" width="50" ><img/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"  alt="react" height="50" width="50" ><img/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"  alt="typescript" height="50" width="50" ><img/>
-    
-  <h4>Backend Technologies:<h4/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg"  alt="express" height="50" width="50" ><img/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg"  alt="node-js" height="50" width="50" ><img/>
-  <h4>Database:<h4/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg"  alt="mongodb" height="50" width="50" ><img/>
-  <h4>Version Control:<h4/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" height="50px" width="50px"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" height="50px" width="50px"/>
-</div>
-<!--
-<hr>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
 
 
-
-<h3>GitHub Stats</h3>
-<img src="https://github-profile-trophy.vercel.app/?username=Vamsi-Shetty&theme=algolia" align="center" alt="vamsi" width="100%" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vamsi-Shetty&theme=2077" width="100%" />
-
-<h3>GitHub Metrics</h3>
-<img align="left" src="https://metrics.lecoq.io/Vamsi-Shetty" alt="html" ><img/> -->
