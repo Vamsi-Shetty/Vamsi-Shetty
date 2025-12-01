@@ -1,27 +1,20 @@
-
-# Hi there, I'm Vamsi 👋  
-
-💻 **Full-Stack Developer**  
-
-Welcome to my GitHub profile! I love building scalable applications, solving problems with code, and exploring system design & cloud technologies.  
+### Hey! I'm Vamsi, software engineer based in India <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
 ---
 
-## 🚀 About Me  
-- 🌱 Currently learning **Cloud computing and System Design**
-- ☁️ Exploring **AWS & Cloud Infrastructure**
+**Tech Stack**
+
+**Languages:** TypeScript, Golang  
+**Frontend:**  React, Material UI  
+**Backend:**   Node.js, Express.js  
+**Database:** MongoDB, PostgreSQL, Redis, GraphQL  
+**Cloud:** AWS (EC2, S3, IAM, VPC)  
+**DevOps:** Docker, Kubernetes, Jenkins, Prometheus, Grafana  
+**Others:** Git, OpenAPI  
 
 ---
 
-## 🛠️ Tech Stack  
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
-
-
+**Connect with me:**  
+🔗 [LinkedIn](https://linkedin.com/in/vamsi-brahmanapalli)  
+🐦 [X](https://x.com/vamsi_brmhnplli)  
+📬 bramhanapalli.vamsi@gmail.com
